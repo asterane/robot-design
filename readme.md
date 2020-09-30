@@ -1,13 +1,13 @@
 
 
-<a id="org486a677"></a>
+<a id="org6cc1805"></a>
 
 # Robot Design
 
-![img](cad-iso.png)
+![img](cad_iso.png)
 
 
-<a id="orga38579c"></a>
+<a id="orgfb667a5"></a>
 
 # Overview
 
@@ -28,7 +28,7 @@ steering system, which was intended to provide better control than
 tank steering with the exceedingly narrow wheels.
 
 
-<a id="org3768cd0"></a>
+<a id="orgfa7eabd"></a>
 
 # Project Goals
 
@@ -44,7 +44,7 @@ tank steering with the exceedingly narrow wheels.
     servo motors
 
 
-<a id="org9cd5a0d"></a>
+<a id="orgb40e653"></a>
 
 # Design
 
